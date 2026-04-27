@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>ce6644e5-5358-4810-a1ad-e1b62085783e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e2ce365-8c47-440e-a250-97a3fd988224</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.name</defaultValue>
+      <description></description>
+      <id>2e2ce365-8c47-440e-a250-97a3fd988224</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
 </TestCaseEntity>

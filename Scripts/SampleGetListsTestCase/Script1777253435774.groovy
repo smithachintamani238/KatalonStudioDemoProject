@@ -20,9 +20,11 @@ import org.openqa.selenium.Keys as Keys
 response = WS.sendRequest(findTestObject('GetListCollections', [('variable') : '']))
 
 def jsonSlurper = new groovy.json.JsonSlurper()
+def result = jsonSlurper.parseText(response.getResponseBodyContent())
 
-def result  = jsonSlurper.parseText(response.getResponseBodyContent())
+println('....... result ' + result.data.name)
 
-println ('....... result ' +result.data.name)
+GlobalVariable.name = result.data.name
 
+WS.sendRequest(findTestObject('SamplePostRequest', [('name') : GlobalVariable.name]))
 
