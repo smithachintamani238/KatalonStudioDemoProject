@@ -1,0 +1,14 @@
+{
+  "id": "Test Suites/TSC",
+  "name": "TSC",
+  "reportFolder": "/Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_191643/TSC/20260426_191643",
+  "startTime": 1777256206151,
+  "endTime": 1777256210341,
+  "totalPassedTestCases": "6",
+  "totalErrorTestCases": "0",
+  "totalFailedTestCases": "0",
+  "totalTestCases": "6",
+  "totalIncompleteTestCases": "0",
+  "totalSkippedTestCases": "0",
+  "description": ""
+}

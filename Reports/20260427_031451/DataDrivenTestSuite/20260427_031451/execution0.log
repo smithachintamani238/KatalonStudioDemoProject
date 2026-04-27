@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-04-27T10:14:53.494774Z</date>
+  <millis>1777284893494</millis>
+  <nanos>774000</nanos>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/DataDrivenTestSuite</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">false</property>
+  <property name="retryCount">3</property>
+  <property name="name">DataDrivenTestSuite</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/DataDrivenTestSuite</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.501126Z</date>
+  <millis>1777284893501</millis>
+  <nanos>126000</nanos>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>userFullName = Smitha C</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="userFullName">Smitha C</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.501456Z</date>
+  <millis>1777284893501</millis>
+  <nanos>456000</nanos>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>projectName = KatalonStudioDemoProject</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="projectName">KatalonStudioDemoProject</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.502715Z</date>
+  <millis>1777284893502</millis>
+  <nanos>715000</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = smithachintamani - localhost</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">smithachintamani - localhost</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.503023Z</date>
+  <millis>1777284893503</millis>
+  <nanos>23000</nanos>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Mac OS X 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.503241Z</date>
+  <millis>1777284893503</millis>
+  <nanos>241000</nanos>
+  <sequence>5</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">127.0.0.1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.503481Z</date>
+  <millis>1777284893503</millis>
+  <nanos>481000</nanos>
+  <sequence>6</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 11.1.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">11.1.2.0</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.547826Z</date>
+  <millis>1777284893547</millis>
+  <nanos>826000</nanos>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="origin"></property>
+  <property name="name">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="source">\Users\smithachintamani\git\NewKatalonProject\KatalonStudioDemoProject\Test Cases\UpdateRecordsFromExcel.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="uuid">a2ed9319-9b92-4181-8250-faac3706df19</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.560045Z</date>
+  <millis>1777284893560</millis>
+  <nanos>45000</nanos>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>recordID = d98b6b45-729a-491a-9f67-526fc595fdc3</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.561327Z</date>
+  <millis>1777284893561</millis>
+  <nanos>327000</nanos>
+  <sequence>10</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>executionBindingVariables = [
+  {
+    &amp;quot;value&amp;quot;: &amp;quot;d98b6b45-729a-491a-9f67-526fc595fdc3&amp;quot;,
+    &amp;quot;isDefault&amp;quot;: false,
+    &amp;quot;name&amp;quot;: &amp;quot;recordID&amp;quot;,
+    &amp;quot;masked&amp;quot;: false
+  }
+]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;d98b6b45-729a-491a-9f67-526fc595fdc3&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:53.655966Z</date>
+  <millis>1777284893655</millis>
+  <nanos>966000</nanos>
+  <sequence>11</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.532377Z</date>
+  <millis>1777284897532</millis>
+  <nanos>377000</nanos>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260427_031451/DataDrivenTestSuite/20260427_031451/requests/main/updateRecords_0.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">66df85c7-15cd-4754-b267-355ef2c249c1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.534226Z</date>
+  <millis>1777284897534</millis>
+  <nanos>226000</nanos>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cURL Command:
+curl \
+  --location \
+  --request PUT \
+  &amp;apos;https://reqres.in/api/collections/products/records/d98b6b45-729a-491a-9f67-526fc595fdc3?project_id=15942&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">66df85c7-15cd-4754-b267-355ef2c249c1</property>
+  <property name="curlCommand">curl --location --request PUT &apos;https://reqres.in/api/collections/products/records/d98b6b45-729a-491a-9f67-526fc595fdc3?project_id=15942&apos;</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.553888Z</date>
+  <millis>1777284897553</millis>
+  <nanos>888000</nanos>
+  <sequence>17</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.554174Z</date>
+  <millis>1777284897554</millis>
+  <nanos>174000</nanos>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.554347Z</date>
+  <millis>1777284897554</millis>
+  <nanos>347000</nanos>
+  <sequence>19</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.554852Z</date>
+  <millis>1777284897554</millis>
+  <nanos>852000</nanos>
+  <sequence>20</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;d98b6b45-729a-491a-9f67-526fc595fdc3&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="executedKeywords">{
+  &quot;WS.sendRequest&quot;: 1
+}</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.560757Z</date>
+  <millis>1777284897560</millis>
+  <nanos>757000</nanos>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="origin"></property>
+  <property name="name">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="source">\Users\smithachintamani\git\NewKatalonProject\KatalonStudioDemoProject\Test Cases\UpdateRecordsFromExcel.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="uuid">8c558f16-f143-45e0-a809-feba860d84c1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.564352Z</date>
+  <millis>1777284897564</millis>
+  <nanos>352000</nanos>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>recordID = 1b548590-2886-4bc7-89d3-47ce611bf8bc</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.564691Z</date>
+  <millis>1777284897564</millis>
+  <nanos>691000</nanos>
+  <sequence>24</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>executionBindingVariables = [
+  {
+    &amp;quot;value&amp;quot;: &amp;quot;1b548590-2886-4bc7-89d3-47ce611bf8bc&amp;quot;,
+    &amp;quot;isDefault&amp;quot;: false,
+    &amp;quot;name&amp;quot;: &amp;quot;recordID&amp;quot;,
+    &amp;quot;masked&amp;quot;: false
+  }
+]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;1b548590-2886-4bc7-89d3-47ce611bf8bc&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.565298Z</date>
+  <millis>1777284897565</millis>
+  <nanos>298000</nanos>
+  <sequence>25</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.912405Z</date>
+  <millis>1777284897912</millis>
+  <nanos>405000</nanos>
+  <sequence>29</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260427_031451/DataDrivenTestSuite/20260427_031451/requests/main/updateRecords_1.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">f51353b1-e463-40ec-8b98-2e62f7eb82b4</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.912970Z</date>
+  <millis>1777284897912</millis>
+  <nanos>970000</nanos>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cURL Command:
+curl \
+  --location \
+  --request PUT \
+  &amp;apos;https://reqres.in/api/collections/products/records/1b548590-2886-4bc7-89d3-47ce611bf8bc?project_id=15942&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">f51353b1-e463-40ec-8b98-2e62f7eb82b4</property>
+  <property name="curlCommand">curl --location --request PUT &apos;https://reqres.in/api/collections/products/records/1b548590-2886-4bc7-89d3-47ce611bf8bc?project_id=15942&apos;</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.914669Z</date>
+  <millis>1777284897914</millis>
+  <nanos>669000</nanos>
+  <sequence>31</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.914883Z</date>
+  <millis>1777284897914</millis>
+  <nanos>883000</nanos>
+  <sequence>32</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.915052Z</date>
+  <millis>1777284897915</millis>
+  <nanos>52000</nanos>
+  <sequence>33</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.915682Z</date>
+  <millis>1777284897915</millis>
+  <nanos>682000</nanos>
+  <sequence>34</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;1b548590-2886-4bc7-89d3-47ce611bf8bc&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="executedKeywords">{
+  &quot;WS.sendRequest&quot;: 1
+}</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.922238Z</date>
+  <millis>1777284897922</millis>
+  <nanos>238000</nanos>
+  <sequence>35</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="origin"></property>
+  <property name="name">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="source">\Users\smithachintamani\git\NewKatalonProject\KatalonStudioDemoProject\Test Cases\UpdateRecordsFromExcel.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="uuid">5ea941a3-a592-4475-9e61-534d1b1c1bc3</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.926483Z</date>
+  <millis>1777284897926</millis>
+  <nanos>483000</nanos>
+  <sequence>37</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>recordID = 102554cd-cfde-4161-a2fc-47aed70210a1</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.926998Z</date>
+  <millis>1777284897926</millis>
+  <nanos>998000</nanos>
+  <sequence>38</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>executionBindingVariables = [
+  {
+    &amp;quot;value&amp;quot;: &amp;quot;102554cd-cfde-4161-a2fc-47aed70210a1&amp;quot;,
+    &amp;quot;isDefault&amp;quot;: false,
+    &amp;quot;name&amp;quot;: &amp;quot;recordID&amp;quot;,
+    &amp;quot;masked&amp;quot;: false
+  }
+]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;102554cd-cfde-4161-a2fc-47aed70210a1&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:57.927937Z</date>
+  <millis>1777284897927</millis>
+  <nanos>937000</nanos>
+  <sequence>39</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.282084Z</date>
+  <millis>1777284898282</millis>
+  <nanos>84000</nanos>
+  <sequence>43</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260427_031451/DataDrivenTestSuite/20260427_031451/requests/main/updateRecords_2.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">05cfe408-ba77-481a-8b36-6c5d0b5a87bf</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.283111Z</date>
+  <millis>1777284898283</millis>
+  <nanos>111000</nanos>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cURL Command:
+curl \
+  --location \
+  --request PUT \
+  &amp;apos;https://reqres.in/api/collections/products/records/102554cd-cfde-4161-a2fc-47aed70210a1?project_id=15942&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">05cfe408-ba77-481a-8b36-6c5d0b5a87bf</property>
+  <property name="curlCommand">curl --location --request PUT &apos;https://reqres.in/api/collections/products/records/102554cd-cfde-4161-a2fc-47aed70210a1?project_id=15942&apos;</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.284681Z</date>
+  <millis>1777284898284</millis>
+  <nanos>681000</nanos>
+  <sequence>45</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.284913Z</date>
+  <millis>1777284898284</millis>
+  <nanos>913000</nanos>
+  <sequence>46</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.285116Z</date>
+  <millis>1777284898285</millis>
+  <nanos>116000</nanos>
+  <sequence>47</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.286664Z</date>
+  <millis>1777284898286</millis>
+  <nanos>664000</nanos>
+  <sequence>48</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;102554cd-cfde-4161-a2fc-47aed70210a1&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="executedKeywords">{
+  &quot;WS.sendRequest&quot;: 1
+}</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.297899Z</date>
+  <millis>1777284898297</millis>
+  <nanos>899000</nanos>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="origin"></property>
+  <property name="name">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="source">\Users\smithachintamani\git\NewKatalonProject\KatalonStudioDemoProject\Test Cases\UpdateRecordsFromExcel.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="uuid">1b81ba5a-8756-4ca3-b722-905b42887855</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.303680Z</date>
+  <millis>1777284898303</millis>
+  <nanos>680000</nanos>
+  <sequence>51</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>recordID = 584e3c3e-8752-4003-ae8e-aff21f5346d2</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.304505Z</date>
+  <millis>1777284898304</millis>
+  <nanos>505000</nanos>
+  <sequence>52</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>executionBindingVariables = [
+  {
+    &amp;quot;value&amp;quot;: &amp;quot;584e3c3e-8752-4003-ae8e-aff21f5346d2&amp;quot;,
+    &amp;quot;isDefault&amp;quot;: false,
+    &amp;quot;name&amp;quot;: &amp;quot;recordID&amp;quot;,
+    &amp;quot;masked&amp;quot;: false
+  }
+]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;584e3c3e-8752-4003-ae8e-aff21f5346d2&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.305664Z</date>
+  <millis>1777284898305</millis>
+  <nanos>664000</nanos>
+  <sequence>53</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.635379Z</date>
+  <millis>1777284898635</millis>
+  <nanos>379000</nanos>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260427_031451/DataDrivenTestSuite/20260427_031451/requests/main/updateRecords_3.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">f2c70427-45bd-4a21-a019-c5202788c4f3</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.636352Z</date>
+  <millis>1777284898636</millis>
+  <nanos>352000</nanos>
+  <sequence>58</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cURL Command:
+curl \
+  --location \
+  --request PUT \
+  &amp;apos;https://reqres.in/api/collections/products/records/584e3c3e-8752-4003-ae8e-aff21f5346d2?project_id=15942&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">f2c70427-45bd-4a21-a019-c5202788c4f3</property>
+  <property name="curlCommand">curl --location --request PUT &apos;https://reqres.in/api/collections/products/records/584e3c3e-8752-4003-ae8e-aff21f5346d2?project_id=15942&apos;</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.638084Z</date>
+  <millis>1777284898638</millis>
+  <nanos>84000</nanos>
+  <sequence>59</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.638546Z</date>
+  <millis>1777284898638</millis>
+  <nanos>546000</nanos>
+  <sequence>60</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.638834Z</date>
+  <millis>1777284898638</millis>
+  <nanos>834000</nanos>
+  <sequence>61</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.639687Z</date>
+  <millis>1777284898639</millis>
+  <nanos>687000</nanos>
+  <sequence>62</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;584e3c3e-8752-4003-ae8e-aff21f5346d2&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="executedKeywords">{
+  &quot;WS.sendRequest&quot;: 1
+}</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.648272Z</date>
+  <millis>1777284898648</millis>
+  <nanos>272000</nanos>
+  <sequence>63</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="origin"></property>
+  <property name="name">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="source">\Users\smithachintamani\git\NewKatalonProject\KatalonStudioDemoProject\Test Cases\UpdateRecordsFromExcel.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="uuid">f02f8b8e-2f2a-44cd-897c-f31999239e79</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.654098Z</date>
+  <millis>1777284898654</millis>
+  <nanos>98000</nanos>
+  <sequence>65</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>recordID = 102d9d76-2c59-485d-b53b-833e7e963b91</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.654719Z</date>
+  <millis>1777284898654</millis>
+  <nanos>719000</nanos>
+  <sequence>66</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>executionBindingVariables = [
+  {
+    &amp;quot;value&amp;quot;: &amp;quot;102d9d76-2c59-485d-b53b-833e7e963b91&amp;quot;,
+    &amp;quot;isDefault&amp;quot;: false,
+    &amp;quot;name&amp;quot;: &amp;quot;recordID&amp;quot;,
+    &amp;quot;masked&amp;quot;: false
+  }
+]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;102d9d76-2c59-485d-b53b-833e7e963b91&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.655533Z</date>
+  <millis>1777284898655</millis>
+  <nanos>533000</nanos>
+  <sequence>67</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.994096Z</date>
+  <millis>1777284898994</millis>
+  <nanos>96000</nanos>
+  <sequence>71</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260427_031451/DataDrivenTestSuite/20260427_031451/requests/main/updateRecords_4.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">c725b976-7c26-49df-bb56-43f337a8c000</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.995093Z</date>
+  <millis>1777284898995</millis>
+  <nanos>93000</nanos>
+  <sequence>72</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cURL Command:
+curl \
+  --location \
+  --request PUT \
+  &amp;apos;https://reqres.in/api/collections/products/records/102d9d76-2c59-485d-b53b-833e7e963b91?project_id=15942&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">c725b976-7c26-49df-bb56-43f337a8c000</property>
+  <property name="curlCommand">curl --location --request PUT &apos;https://reqres.in/api/collections/products/records/102d9d76-2c59-485d-b53b-833e7e963b91?project_id=15942&apos;</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.997313Z</date>
+  <millis>1777284898997</millis>
+  <nanos>313000</nanos>
+  <sequence>73</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.997631Z</date>
+  <millis>1777284898997</millis>
+  <nanos>631000</nanos>
+  <sequence>74</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.997873Z</date>
+  <millis>1777284898997</millis>
+  <nanos>873000</nanos>
+  <sequence>75</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:58.998757Z</date>
+  <millis>1777284898998</millis>
+  <nanos>757000</nanos>
+  <sequence>76</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;102d9d76-2c59-485d-b53b-833e7e963b91&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="executedKeywords">{
+  &quot;WS.sendRequest&quot;: 1
+}</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.009866Z</date>
+  <millis>1777284899009</millis>
+  <nanos>866000</nanos>
+  <sequence>77</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="origin"></property>
+  <property name="name">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/UpdateRecordsFromExcel</property>
+  <property name="source">\Users\smithachintamani\git\NewKatalonProject\KatalonStudioDemoProject\Test Cases\UpdateRecordsFromExcel.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="uuid">c27288a4-e2f3-4919-b8e0-571d563acd43</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.014943Z</date>
+  <millis>1777284899014</millis>
+  <nanos>943000</nanos>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>recordID = c728d68c-264d-4f54-bde2-699479f906ed</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.015549Z</date>
+  <millis>1777284899015</millis>
+  <nanos>549000</nanos>
+  <sequence>80</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>executionBindingVariables = [
+  {
+    &amp;quot;value&amp;quot;: &amp;quot;c728d68c-264d-4f54-bde2-699479f906ed&amp;quot;,
+    &amp;quot;isDefault&amp;quot;: false,
+    &amp;quot;name&amp;quot;: &amp;quot;recordID&amp;quot;,
+    &amp;quot;masked&amp;quot;: false
+  }
+]</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;c728d68c-264d-4f54-bde2-699479f906ed&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.016744Z</date>
+  <millis>1777284899016</millis>
+  <nanos>744000</nanos>
+  <sequence>81</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.396166Z</date>
+  <millis>1777284899396</millis>
+  <nanos>166000</nanos>
+  <sequence>85</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260427_031451/DataDrivenTestSuite/20260427_031451/requests/main/updateRecords_5.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">7f556bc9-8779-4d86-8c5d-79b62d20334b</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.396594Z</date>
+  <millis>1777284899396</millis>
+  <nanos>594000</nanos>
+  <sequence>86</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cURL Command:
+curl \
+  --location \
+  --request PUT \
+  &amp;apos;https://reqres.in/api/collections/products/records/c728d68c-264d-4f54-bde2-699479f906ed?project_id=15942&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">7f556bc9-8779-4d86-8c5d-79b62d20334b</property>
+  <property name="curlCommand">curl --location --request PUT &apos;https://reqres.in/api/collections/products/records/c728d68c-264d-4f54-bde2-699479f906ed?project_id=15942&apos;</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.397805Z</date>
+  <millis>1777284899397</millis>
+  <nanos>805000</nanos>
+  <sequence>87</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.398123Z</date>
+  <millis>1777284899398</millis>
+  <nanos>123000</nanos>
+  <sequence>88</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : sendRequest(findTestObject(&amp;quot;updateRecords&amp;quot;, [&amp;quot;recordID&amp;quot;:recordID]), CONTINUE_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.398530Z</date>
+  <millis>1777284899398</millis>
+  <nanos>530000</nanos>
+  <sequence>89</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.399319Z</date>
+  <millis>1777284899399</millis>
+  <nanos>319000</nanos>
+  <sequence>90</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/UpdateRecordsFromExcel</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;value&quot;: &quot;c728d68c-264d-4f54-bde2-699479f906ed&quot;,
+    &quot;isDefault&quot;: false,
+    &quot;name&quot;: &quot;recordID&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="executedKeywords">{
+  &quot;WS.sendRequest&quot;: 1
+}</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2026-04-27T10:14:59.417829Z</date>
+  <millis>1777284899417</millis>
+  <nanos>829000</nanos>
+  <sequence>91</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/DataDrivenTestSuite</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>

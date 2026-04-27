@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DataDrivenTestSuite,,,,26-04-2026 19:17:48,26-04-2026 19:17:50,2.005s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 19:17:48,26-04-2026 19:17:49,0.669s,PASSED
+"DATA BINDING - {""recordID"":""d98b6b45-729a-491a-9f67-526fc595fdc3""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]), CONTINUE_ON_FAILURE)",,,,26-04-2026 19:17:48,26-04-2026 19:17:49,0.560s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 19:17:49,26-04-2026 19:17:49,0.253s,PASSED
+"DATA BINDING - {""recordID"":""1b548590-2886-4bc7-89d3-47ce611bf8bc""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]), CONTINUE_ON_FAILURE)",,,,26-04-2026 19:17:49,26-04-2026 19:17:49,0.245s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 19:17:49,26-04-2026 19:17:50,0.250s,PASSED
+"DATA BINDING - {""recordID"":""102554cd-cfde-4161-a2fc-47aed70210a1""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]), CONTINUE_ON_FAILURE)",,,,26-04-2026 19:17:49,26-04-2026 19:17:50,0.244s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 19:17:50,26-04-2026 19:17:50,0.250s,PASSED
+"DATA BINDING - {""recordID"":""584e3c3e-8752-4003-ae8e-aff21f5346d2""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]), CONTINUE_ON_FAILURE)",,,,26-04-2026 19:17:50,26-04-2026 19:17:50,0.244s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 19:17:50,26-04-2026 19:17:50,0.243s,PASSED
+"DATA BINDING - {""recordID"":""102d9d76-2c59-485d-b53b-833e7e963b91""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]), CONTINUE_ON_FAILURE)",,,,26-04-2026 19:17:50,26-04-2026 19:17:50,0.237s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 19:17:50,26-04-2026 19:17:50,0.233s,PASSED
+"DATA BINDING - {""recordID"":""c728d68c-264d-4f54-bde2-699479f906ed""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]), CONTINUE_ON_FAILURE)",,,,26-04-2026 19:17:50,26-04-2026 19:17:50,0.229s,PASSED

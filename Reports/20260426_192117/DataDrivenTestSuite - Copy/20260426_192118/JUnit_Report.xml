@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DataDrivenTestSuite - Copy" time="3.01" tests="6" passed="6" failures="0" errors="0" incompleted="0" skipped="0">
+   <testsuite name="DataDrivenTestSuite - Copy" tests="6" passed="6" failures="0" errors="0" incompleted="0" skipped="0" time="3.01" timestamp="2026-04-27T02:21:25.454Z" hostname="smithachintamani - localhost" id="Test Suites/DataDrivenTestSuite - Copy" status="PASSED">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118"/>
+         <property name="logFiles" value="/Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/execution0.log, /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/console0.log"/>
+         <property name="attachments" value=""/>
+         <property name="executionBindingVariables" value="[&#xa;  {&#xa;    &quot;value&quot;: &quot;c728d68c-264d-4f54-bde2-699479f906ed&quot;,&#xa;    &quot;isDefault&quot;: false,&#xa;    &quot;name&quot;: &quot;recordID&quot;,&#xa;    &quot;masked&quot;: false&#xa;  }&#xa;]"/>
+         <property name="hostName" value="smithachintamani - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="11.1.2.0"/>
+         <property name="userFullName" value="Smitha C"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="projectName" value="KatalonStudioDemoProject"/>
+      </properties>
+      <testcase name="Test Cases/UpdateRecordsFromExcel" time="1.0" classname="Test Cases/UpdateRecordsFromExcel" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"recordID":"d98b6b45-729a-491a-9f67-526fc595fdc3"}]]></property>
+         </properties>
+         <system-out><![CDATA[26-04-2026T19:21:25 - [TEST_CASE][PASSED] - Test Cases/UpdateRecordsFromExcel: Test Cases/UpdateRecordsFromExcel
+
+26-04-2026T19:21:25 - [TEST_STEP][PASSED] - sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE): Send request successfully
+
+26-04-2026T19:21:26 - [MESSAGE][INFO] - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/requests/main/updateRecords_0.har
+
+26-04-2026T19:21:26 - [MESSAGE][INFO] - cURL Command:
+curl \
+  --location \
+  --request PUT \
+  'https://reqres.in/api/collections/products/records/d98b6b45-729a-491a-9f67-526fc595fdc3?project_id=15942'
+
+26-04-2026T19:21:26 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/UpdateRecordsFromExcel" time="0.365" classname="Test Cases/UpdateRecordsFromExcel" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"recordID":"1b548590-2886-4bc7-89d3-47ce611bf8bc"}]]></property>
+         </properties>
+         <system-out><![CDATA[26-04-2026T19:21:26 - [TEST_CASE][PASSED] - Test Cases/UpdateRecordsFromExcel: Test Cases/UpdateRecordsFromExcel
+
+26-04-2026T19:21:26 - [TEST_STEP][PASSED] - sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE): Send request successfully
+
+26-04-2026T19:21:26 - [MESSAGE][INFO] - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/requests/main/updateRecords_1.har
+
+26-04-2026T19:21:26 - [MESSAGE][INFO] - cURL Command:
+curl \
+  --location \
+  --request PUT \
+  'https://reqres.in/api/collections/products/records/1b548590-2886-4bc7-89d3-47ce611bf8bc?project_id=15942'
+
+26-04-2026T19:21:26 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/UpdateRecordsFromExcel" time="0.402" classname="Test Cases/UpdateRecordsFromExcel" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"recordID":"102554cd-cfde-4161-a2fc-47aed70210a1"}]]></property>
+         </properties>
+         <system-out><![CDATA[26-04-2026T19:21:26 - [TEST_CASE][PASSED] - Test Cases/UpdateRecordsFromExcel: Test Cases/UpdateRecordsFromExcel
+
+26-04-2026T19:21:26 - [TEST_STEP][PASSED] - sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE): Send request successfully
+
+26-04-2026T19:21:27 - [MESSAGE][INFO] - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/requests/main/updateRecords_2.har
+
+26-04-2026T19:21:27 - [MESSAGE][INFO] - cURL Command:
+curl \
+  --location \
+  --request PUT \
+  'https://reqres.in/api/collections/products/records/102554cd-cfde-4161-a2fc-47aed70210a1?project_id=15942'
+
+26-04-2026T19:21:27 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/UpdateRecordsFromExcel" time="0.384" classname="Test Cases/UpdateRecordsFromExcel" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"recordID":"584e3c3e-8752-4003-ae8e-aff21f5346d2"}]]></property>
+         </properties>
+         <system-out><![CDATA[26-04-2026T19:21:27 - [TEST_CASE][PASSED] - Test Cases/UpdateRecordsFromExcel: Test Cases/UpdateRecordsFromExcel
+
+26-04-2026T19:21:27 - [TEST_STEP][PASSED] - sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE): Send request successfully
+
+26-04-2026T19:21:27 - [MESSAGE][INFO] - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/requests/main/updateRecords_3.har
+
+26-04-2026T19:21:27 - [MESSAGE][INFO] - cURL Command:
+curl \
+  --location \
+  --request PUT \
+  'https://reqres.in/api/collections/products/records/584e3c3e-8752-4003-ae8e-aff21f5346d2?project_id=15942'
+
+26-04-2026T19:21:27 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/UpdateRecordsFromExcel" time="0.379" classname="Test Cases/UpdateRecordsFromExcel" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"recordID":"102d9d76-2c59-485d-b53b-833e7e963b91"}]]></property>
+         </properties>
+         <system-out><![CDATA[26-04-2026T19:21:27 - [TEST_CASE][PASSED] - Test Cases/UpdateRecordsFromExcel: Test Cases/UpdateRecordsFromExcel
+
+26-04-2026T19:21:27 - [TEST_STEP][PASSED] - sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE): Send request successfully
+
+26-04-2026T19:21:28 - [MESSAGE][INFO] - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/requests/main/updateRecords_4.har
+
+26-04-2026T19:21:28 - [MESSAGE][INFO] - cURL Command:
+curl \
+  --location \
+  --request PUT \
+  'https://reqres.in/api/collections/products/records/102d9d76-2c59-485d-b53b-833e7e963b91?project_id=15942'
+
+26-04-2026T19:21:28 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/UpdateRecordsFromExcel" time="0.359" classname="Test Cases/UpdateRecordsFromExcel" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"recordID":"c728d68c-264d-4f54-bde2-699479f906ed"}]]></property>
+         </properties>
+         <system-out><![CDATA[26-04-2026T19:21:28 - [TEST_CASE][PASSED] - Test Cases/UpdateRecordsFromExcel: Test Cases/UpdateRecordsFromExcel
+
+26-04-2026T19:21:28 - [TEST_STEP][PASSED] - sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE): Send request successfully
+
+26-04-2026T19:21:28 - [MESSAGE][INFO] - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_192117/DataDrivenTestSuite - Copy/20260426_192118/requests/main/updateRecords_5.har
+
+26-04-2026T19:21:28 - [MESSAGE][INFO] - cURL Command:
+curl \
+  --location \
+  --request PUT \
+  'https://reqres.in/api/collections/products/records/c728d68c-264d-4f54-bde2-699479f906ed?project_id=15942'
+
+26-04-2026T19:21:28 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-04-2026T19:21:25 - [TEST_SUITE][PASSED] - DataDrivenTestSuite - Copy: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

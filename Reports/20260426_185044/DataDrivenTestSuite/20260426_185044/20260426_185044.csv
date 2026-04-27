@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DataDrivenTestSuite,,,,26-04-2026 18:50:46,26-04-2026 18:50:48,2.153s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 18:50:46,26-04-2026 18:50:47,0.643s,PASSED
+"DATA BINDING - {""recordID"":""d98b6b45-729a-491a-9f67-526fc595fdc3""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]))",,,,26-04-2026 18:50:46,26-04-2026 18:50:47,0.541s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 18:50:47,26-04-2026 18:50:47,0.249s,PASSED
+"DATA BINDING - {""recordID"":""1b548590-2886-4bc7-89d3-47ce611bf8bc""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]))",,,,26-04-2026 18:50:47,26-04-2026 18:50:47,0.244s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 18:50:47,26-04-2026 18:50:47,0.255s,PASSED
+"DATA BINDING - {""recordID"":""102554cd-cfde-4161-a2fc-47aed70210a1""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]))",,,,26-04-2026 18:50:47,26-04-2026 18:50:47,0.249s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 18:50:47,26-04-2026 18:50:47,0.298s,PASSED
+"DATA BINDING - {""recordID"":""584e3c3e-8752-4003-ae8e-aff21f5346d2""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]))",,,,26-04-2026 18:50:47,26-04-2026 18:50:47,0.290s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 18:50:47,26-04-2026 18:50:48,0.358s,PASSED
+"DATA BINDING - {""recordID"":""102d9d76-2c59-485d-b53b-833e7e963b91""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]))",,,,26-04-2026 18:50:47,26-04-2026 18:50:48,0.350s,PASSED
+,,,,,,,
+Test Cases/UpdateRecordsFromExcel,,,,26-04-2026 18:50:48,26-04-2026 18:50:48,0.235s,PASSED
+"DATA BINDING - {""recordID"":""c728d68c-264d-4f54-bde2-699479f906ed""}",,,,,,,
+"sendRequest(findTestObject(""updateRecords"", [""recordID"":recordID]))",,,,26-04-2026 18:50:48,26-04-2026 18:50:48,0.228s,PASSED

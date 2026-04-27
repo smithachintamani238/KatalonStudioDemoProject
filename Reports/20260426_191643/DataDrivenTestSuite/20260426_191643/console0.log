@@ -1,0 +1,54 @@
+2026-04-26 19:16:47.100 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback default configuration initialized from: /Applications/Katalon Studio.app/Contents/Eclipse/configuration/org.eclipse.osgi/150/0/.cp/resources/logback/logback-execution.xml
+2026-04-26 19:16:47.101 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback custom configuration initialized from: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Include/config/log.properties
+2026-04-26 19:16:47.328 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/DataDrivenTestSuite
+2026-04-26 19:16:47.360 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Smitha C
+2026-04-26 19:16:47.360 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = KatalonStudioDemoProject
+2026-04-26 19:16:47.360 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = smithachintamani - localhost
+2026-04-26 19:16:47.360 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Mac OS X 64bit
+2026-04-26 19:16:47.361 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 127.0.0.1
+2026-04-26 19:16:47.361 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 11.1.2.0
+2026-04-26 19:16:47.400 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-04-26 19:16:47.400 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:47.411 INFO  c.k.katalon.core.main.TestCaseExecutor   - recordID = d98b6b45-729a-491a-9f67-526fc595fdc3
+2026-04-26 19:16:47.511 DEBUG testcase.UpdateRecordsFromExcel          - 1: sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE)
+2026-04-26 19:16:48.240 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_191643/DataDrivenTestSuite/20260426_191643/requests/main/updateRecords_0.har
+2026-04-26 19:16:48.241 INFO  c.k.k.core.webservice.common.HarLogger   - cURL Command:\ncurl \\n  --location \\n  --request PUT \\n  'https://reqres.in/api/collections/products/records/d98b6b45-729a-491a-9f67-526fc595fdc3?project_id=15942'
+2026-04-26 19:16:48.264 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:48.269 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-04-26 19:16:48.269 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:48.273 INFO  c.k.katalon.core.main.TestCaseExecutor   - recordID = 1b548590-2886-4bc7-89d3-47ce611bf8bc
+2026-04-26 19:16:48.274 DEBUG testcase.UpdateRecordsFromExcel          - 1: sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE)
+2026-04-26 19:16:48.628 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_191643/DataDrivenTestSuite/20260426_191643/requests/main/updateRecords_1.har
+2026-04-26 19:16:48.631 INFO  c.k.k.core.webservice.common.HarLogger   - cURL Command:\ncurl \\n  --location \\n  --request PUT \\n  'https://reqres.in/api/collections/products/records/1b548590-2886-4bc7-89d3-47ce611bf8bc?project_id=15942'
+2026-04-26 19:16:48.637 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:48.643 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-04-26 19:16:48.643 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:48.649 INFO  c.k.katalon.core.main.TestCaseExecutor   - recordID = 102554cd-cfde-4161-a2fc-47aed70210a1
+2026-04-26 19:16:48.651 DEBUG testcase.UpdateRecordsFromExcel          - 1: sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE)
+2026-04-26 19:16:49.067 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_191643/DataDrivenTestSuite/20260426_191643/requests/main/updateRecords_2.har
+2026-04-26 19:16:49.069 INFO  c.k.k.core.webservice.common.HarLogger   - cURL Command:\ncurl \\n  --location \\n  --request PUT \\n  'https://reqres.in/api/collections/products/records/102554cd-cfde-4161-a2fc-47aed70210a1?project_id=15942'
+2026-04-26 19:16:49.075 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:49.084 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-04-26 19:16:49.084 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:49.089 INFO  c.k.katalon.core.main.TestCaseExecutor   - recordID = 584e3c3e-8752-4003-ae8e-aff21f5346d2
+2026-04-26 19:16:49.091 DEBUG testcase.UpdateRecordsFromExcel          - 1: sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE)
+2026-04-26 19:16:49.467 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_191643/DataDrivenTestSuite/20260426_191643/requests/main/updateRecords_3.har
+2026-04-26 19:16:49.469 INFO  c.k.k.core.webservice.common.HarLogger   - cURL Command:\ncurl \\n  --location \\n  --request PUT \\n  'https://reqres.in/api/collections/products/records/584e3c3e-8752-4003-ae8e-aff21f5346d2?project_id=15942'
+2026-04-26 19:16:49.475 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:49.486 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-04-26 19:16:49.486 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:49.490 INFO  c.k.katalon.core.main.TestCaseExecutor   - recordID = 102d9d76-2c59-485d-b53b-833e7e963b91
+2026-04-26 19:16:49.492 DEBUG testcase.UpdateRecordsFromExcel          - 1: sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE)
+2026-04-26 19:16:49.887 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_191643/DataDrivenTestSuite/20260426_191643/requests/main/updateRecords_4.har
+2026-04-26 19:16:49.888 INFO  c.k.k.core.webservice.common.HarLogger   - cURL Command:\ncurl \\n  --location \\n  --request PUT \\n  'https://reqres.in/api/collections/products/records/102d9d76-2c59-485d-b53b-833e7e963b91?project_id=15942'
+2026-04-26 19:16:49.891 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:49.899 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-04-26 19:16:49.899 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:49.904 INFO  c.k.katalon.core.main.TestCaseExecutor   - recordID = c728d68c-264d-4f54-bde2-699479f906ed
+2026-04-26 19:16:49.905 DEBUG testcase.UpdateRecordsFromExcel          - 1: sendRequest(findTestObject("updateRecords", ["recordID":recordID]), CONTINUE_ON_FAILURE)
+2026-04-26 19:16:50.310 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: /Users/smithachintamani/git/NewKatalonProject/KatalonStudioDemoProject/Reports/20260426_191643/DataDrivenTestSuite/20260426_191643/requests/main/updateRecords_5.har
+2026-04-26 19:16:50.315 INFO  c.k.k.core.webservice.common.HarLogger   - cURL Command:\ncurl \\n  --location \\n  --request PUT \\n  'https://reqres.in/api/collections/products/records/c728d68c-264d-4f54-bde2-699479f906ed?project_id=15942'
+2026-04-26 19:16:50.319 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/UpdateRecordsFromExcel
+2026-04-26 19:16:50.339 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2026-04-26 19:16:50.339 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/DataDrivenTestSuite
+2026-04-26 19:16:50.339 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

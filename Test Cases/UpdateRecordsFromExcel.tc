@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpdateRecordsFromExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e07c448-f309-4454-ac03-72df08f001b3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>38c83e16-e30a-4ac1-be1d-656efe25bd9f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>38c83e16-e30a-4ac1-be1d-656efe25bd9f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>recordId</value>
+      <variableId>c5166d9b-c6d1-409d-9432-62596554df5e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5166d9b-c6d1-409d-9432-62596554df5e</id>
+      <masked>false</masked>
+      <name>recordID</name>
+   </variable>
+</TestCaseEntity>
